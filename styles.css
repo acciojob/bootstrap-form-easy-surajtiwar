@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+h1{
+    text-align: center;
+}
+
+input[type=text], input[type=password] {
+    width: 23%;
+    padding: 6px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+   
+  }
+
+  #sb{
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    border: none;
+  }
